@@ -8,18 +8,7 @@
 - 🥅 2022 Goals: Learn more about Front-End Web Development
 - ⚡ Fun fact: I love to ride bikes and play football 
 
-### Connect with me:
 
-
-&nbsp;&nbsp;
-[![Twitter](./img/twitter-light.svg)](https://twitter.com/TitoJon51316197#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://twitter.com/TitoJon51316197#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/labanwaititu#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/labanwaititu#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/t.i.t.o_j.o.n.e.s#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/t.i.t.o_j.o.n.e.s#gh-dark-mode-only)
 
 ### Languages and Tools:
 
