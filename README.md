@@ -2,7 +2,7 @@
 
 ## I'm an Aspiring Full Stack Engineer, Developer, and Brother!!
 
-- 🔭 ! i'm currently working on Python project
+- 🔭 ! i'm currently working on Python projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Learn more about Front-End Web Development
