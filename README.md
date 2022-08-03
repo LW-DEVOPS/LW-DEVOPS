@@ -7,11 +7,9 @@
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Learn more about Front-End Web Development
 - ⚡ Fun fact: I love to ride bikes and play football 
-- 😻 
 
 ### Connect with me:
 
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/TitoJon51316197#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/TitoJon51316197#gh-dark-mode-only)
 &nbsp;&nbsp;
