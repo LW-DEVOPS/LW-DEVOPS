@@ -12,8 +12,8 @@
 
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/TitoJon51316197#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/TitoJon51316197#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/TitoJon51316197#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/TitoJon51316197#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/labanwaititu#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/labanwaititu#gh-dark-mode-only)
