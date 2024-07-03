@@ -2,10 +2,10 @@
 
 ## I'm an Aspiring Full Stack Engineer, Developer, and Brother!!
 
-- 🔭 ! i'm currently working on Python projects
+- 🔭 ! i'm currently working on Javascript and Python projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Learn more about Front-End Web Development
+- 🥅 2024 Goals: Learn more about Front-End Web Development
 - ⚡ Fun fact: I love to ride bikes and play football 
 
 
