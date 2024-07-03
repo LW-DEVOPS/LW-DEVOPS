@@ -1,6 +1,6 @@
  # Hi there, I'm Laban - aka [LW-DEVOPS] 👋 
 
-## I'm an Aspiring Full Stack Engineer, Developer, and Brother!!
+## I'm an Aspiring Full Stack Engineer, Developer!!
 
 - 🔭 ! i'm currently working on Javascript and Python projects
 - 🌱 I’m currently learning everything 🤣
